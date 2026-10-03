@@ -1,0 +1,4 @@
+1MIN FUTURES/by_year/
+*.tar
+*.tmp
+push_to_github.bat

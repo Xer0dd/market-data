@@ -1,0 +1,290 @@
+{
+ "1DAY FUTURES/@NG - 1 day - ETH.csv": {
+  "sha256": "391952b7bc007f16f2efc0cebbfecb50a8a4ed5c5ff2e8eaf084e3f55dd5bf5e",
+  "size": 78408,
+  "zip_size": 29088,
+  "verified": true
+ },
+ "1DAY FUTURES/@SI - 1 day - ETH.csv": {
+  "sha256": "ebebdfeb7003f5ebd087d3b5c4726bc1e6237121cfa4ffcac902eb7fffd65302",
+  "size": 78747,
+  "zip_size": 27617,
+  "verified": true
+ },
+ "12HOUR FUTURES/@SI - 12 hour - ETH.csv": {
+  "sha256": "00dafdd84ae737b791136e0ffc20b7465631da217e3595e9963ea9f9b1974f38",
+  "size": 174481,
+  "zip_size": 54233,
+  "verified": true
+ },
+ "12HOUR FUTURES/@NG - 12 hour - ETH.csv": {
+  "sha256": "f4c4ad2a6c7a3b7eeedb84b71fc3b162cb985c552a9910ad4c68edf39531c2b3",
+  "size": 176714,
+  "zip_size": 56809,
+  "verified": true
+ },
+ "12HOUR FUTURES/@CL - 12 hour - ETH.csv": {
+  "sha256": "ef21c606d8a07e15f12812c395425666dc6498da29a69f01d3e559a8b71cbde8",
+  "size": 253971,
+  "zip_size": 83630,
+  "verified": true
+ },
+ "12HOUR FUTURES/@GC - 12 hour - ETH.csv": {
+  "sha256": "c4c9492377c2a324fac6bcbccf2aea67f4339238a63022ed27a982d6351c975b",
+  "size": 276350,
+  "zip_size": 87278,
+  "verified": true
+ },
+ "1DAY FUTURES/@CL - 1 day - ETH.csv": {
+  "sha256": "f7d5f9a3182fd5cce1e04855ae3c979add1c85b00defe6e498dff15de30695ff",
+  "size": 290978,
+  "zip_size": 105705,
+  "verified": true
+ },
+ "12HOUR FUTURES/@ES - 12 hour - ETH.csv": {
+  "sha256": "22de0b7a220baaac120af53c4b1b7ed5cf23458493b1635693c0aeb3a7edf87a",
+  "size": 291756,
+  "zip_size": 88926,
+  "verified": true
+ },
+ "12HOUR FUTURES/@NQ - 12 hour - ETH.csv": {
+  "sha256": "7b651c758cbc2cc130435ee2f33e2e09e22738f36a298f9ac66080214ab0585d",
+  "size": 301181,
+  "zip_size": 95634,
+  "verified": true
+ },
+ "1DAY FUTURES/@GC - 1 day - ETH.csv": {
+  "sha256": "e1a677ae1c588e6f7ad0e14d232b15110daa34b59f7235cf2ff125d6835bf7dc",
+  "size": 305132,
+  "zip_size": 106019,
+  "verified": true
+ },
+ "1DAY FUTURES/@NQ - 1 day - ETH.csv": {
+  "sha256": "ae880717444e9c95bcb418ea07cd657d21f6d3a89dbc5238ede6df00a752c9fc",
+  "size": 320377,
+  "zip_size": 111761,
+  "verified": true
+ },
+ "6HOUR FUTURES/@SI - 6 hour - ETH.csv": {
+  "sha256": "6ba695467c0afb16fd5fd9dbd8643d1ae1dc85e0f9ff02a01ef6400aed0461ac",
+  "size": 329363,
+  "zip_size": 98809,
+  "verified": true
+ },
+ "6HOUR FUTURES/@NG - 6 hour - ETH.csv": {
+  "sha256": "30a6e6cd1e9b56306db88ae7f54f7a85ac61d3cc03a99cfeaca7b2eb7a0b77ae",
+  "size": 333252,
+  "zip_size": 102364,
+  "verified": true
+ },
+ "1DAY FUTURES/@ES - 1 day - ETH.csv": {
+  "sha256": "ae271928e42c725bc152dcf6599731aa9b3392d2698813a02ab0d1f4cd8d5448",
+  "size": 333542,
+  "zip_size": 111451,
+  "verified": true
+ },
+ "6HOUR FUTURES/@CL - 6 hour - ETH.csv": {
+  "sha256": "61dab02ecb47fc309a0152735a38077e1b8ea57f0fbdbe47e81d8ec136d78d70",
+  "size": 479272,
+  "zip_size": 152665,
+  "verified": true
+ },
+ "6HOUR FUTURES/@GC - 6 hour - ETH.csv": {
+  "sha256": "394f404a365439618c12c70c5df79cf2311c459575d2b4ff8ede5f0e868db2f9",
+  "size": 522915,
+  "zip_size": 160657,
+  "verified": true
+ },
+ "6HOUR FUTURES/@ES - 6 hour - ETH.csv": {
+  "sha256": "4a93e462db15de59c4419321963d345b51f42acdbe2a3a29c35a2185bb1b9375",
+  "size": 550965,
+  "zip_size": 163486,
+  "verified": true
+ },
+ "6HOUR FUTURES/@NQ - 6 hour - ETH.csv": {
+  "sha256": "ac8729e17e198c4d96d1b8c115e6a672330df77f75df2deb1c97c68cb0e2a6e1",
+  "size": 570605,
+  "zip_size": 175937,
+  "verified": true
+ },
+ "1HOUR FUTURES/@SI - 1 hour - ETH.csv": {
+  "sha256": "e112a3482ee8fc00d2933bac4e5cea6c34bb33752f9c73fb4d577ac3a252b168",
+  "size": 1768865,
+  "zip_size": 475859,
+  "verified": true
+ },
+ "1HOUR FUTURES/@NG - 1 hour - ETH.csv": {
+  "sha256": "99d319d3e18803f3656e62d8adf6ea97e5af2b1b5c84703f04995ce24581fab7",
+  "size": 1784530,
+  "zip_size": 485889,
+  "verified": true
+ },
+ "1HOUR FUTURES/@CL - 1 hour - ETH.csv": {
+  "sha256": "5e15d590d596b5683c6e88ed60e1360100c20c1c729690e96b2c9f1ccbefcfb6",
+  "size": 2571672,
+  "zip_size": 747878,
+  "verified": true
+ },
+ "1HOUR FUTURES/@GC - 1 hour - ETH.csv": {
+  "sha256": "56269a098a1c9e57176bb758f2d84b6d5045a1fa10b6b722dc6d876e92316930",
+  "size": 2810615,
+  "zip_size": 780785,
+  "verified": true
+ },
+ "1HOUR FUTURES/@ES - 1 hour - ETH.csv": {
+  "sha256": "2d47d5b0f623f6a63fb7ad1f58f0f96fa8a1912ccaaddf1758bf3cf97711e6d1",
+  "size": 2955807,
+  "zip_size": 795225,
+  "verified": true
+ },
+ "1HOUR FUTURES/@NQ - 1 hour - ETH.csv": {
+  "sha256": "1b328f70613463fe49eb55d053911ed9435edd19efd933533c8c747a20ccb39a",
+  "size": 3047952,
+  "zip_size": 870330,
+  "verified": true
+ },
+ "30MIN FUTURES/@SI - 30 min - ETH.csv": {
+  "sha256": "4a4aa6a39e13fb2dbe57189015f9ff4fb1b576901ce88f203cdba96f64683977",
+  "size": 3510987,
+  "zip_size": 893983,
+  "verified": true
+ },
+ "30MIN FUTURES/@NG - 30 min - ETH.csv": {
+  "sha256": "06422898faa6e4fc930d53765870ea096cb50cd17a171444f52048e88e510433",
+  "size": 3533648,
+  "zip_size": 901104,
+  "verified": true
+ },
+ "30MIN FUTURES/@CL - 30 min - ETH.csv": {
+  "sha256": "9467978f504a97037641f3e2c8c45227f5e30bc8749d3cf6cfc5995b53919844",
+  "size": 5105882,
+  "zip_size": 1414671,
+  "verified": true
+ },
+ "30MIN FUTURES/@GC - 30 min - ETH.csv": {
+  "sha256": "a7603765b652cf287b8776f45f7454361528b064159b621c8bdd42857b0a1532",
+  "size": 5587123,
+  "zip_size": 1474314,
+  "verified": true
+ },
+ "30MIN FUTURES/@ES - 30 min - ETH.csv": {
+  "sha256": "47775f717b64830eff3f788ce923a0140874c104378b62d5950e30ae271ae900",
+  "size": 5868508,
+  "zip_size": 1499563,
+  "verified": true
+ },
+ "30MIN FUTURES/@NQ - 30 min - ETH.csv": {
+  "sha256": "32af6dc7e6ac43bb4e9cf7f954774668c1059827d8ea55b5240fe134e65237d8",
+  "size": 6038438,
+  "zip_size": 1652761,
+  "verified": true
+ },
+ "15MIN FUTURES/@NG - 15 min - ETH.csv": {
+  "sha256": "5d1efac698226b5c5f21b72e185d8b179b8ae874c24cd3274ff6a5502c7e8372",
+  "size": 6934913,
+  "zip_size": 1650841,
+  "verified": true
+ },
+ "15MIN FUTURES/@SI - 15 min - ETH.csv": {
+  "sha256": "47fc09b5517acf12a684e9cfa3dc05e806205100c086c81d930e65509d9712ff",
+  "size": 6976631,
+  "zip_size": 1677768,
+  "verified": true
+ },
+ "15MIN FUTURES/@CL - 15 min - ETH.csv": {
+  "sha256": "7b9798f1a4dda1b8d78acf7d23cb820003b4683468d7cb02bfaa28e24746719d",
+  "size": 10139299,
+  "zip_size": 2667592,
+  "verified": true
+ },
+ "15MIN FUTURES/@GC - 15 min - ETH.csv": {
+  "sha256": "b66df4da3fc80b737648ce885da9bec7281ab4fd3b3bd7f880ea22183eeb6f08",
+  "size": 11098345,
+  "zip_size": 2784443,
+  "verified": true
+ },
+ "15MIN FUTURES/@ES - 15 min - ETH.csv": {
+  "sha256": "403cb99ab072f63f8c04ccf7a8bd62ac8925968aa265052b31244880c038627f",
+  "size": 11616973,
+  "zip_size": 2820128,
+  "verified": true
+ },
+ "15MIN FUTURES/@NQ - 15 min - ETH.csv": {
+  "sha256": "714febe35e58ed10d427707fc2406c6896d65dd43d1b991ba776aee0b333192c",
+  "size": 11880805,
+  "zip_size": 3125199,
+  "verified": true
+ },
+ "5MIN FUTURES/@NG - 5 min - ETH.csv": {
+  "sha256": "c224f044d87aa933e39fd845f543005d2df718a7c69b3784c91ab839bb60cad2",
+  "size": 19341349,
+  "zip_size": 4040162,
+  "verified": true
+ },
+ "5MIN FUTURES/@SI - 5 min - ETH.csv": {
+  "sha256": "9c6309b82254ba7767c2f6113b9fe105e81b91daf61f29b7a6fabb3ad8792089",
+  "size": 20682936,
+  "zip_size": 4451239,
+  "verified": true
+ },
+ "5MIN FUTURES/@CL - 5 min - ETH.csv": {
+  "sha256": "defb4e260c54128bfe7caf2d61225b4384e26d7a481c6c42849d78da36afd9f2",
+  "size": 30081637,
+  "zip_size": 7163596,
+  "verified": true
+ },
+ "5MIN FUTURES/@GC - 5 min - ETH.csv": {
+  "sha256": "3cf5024b1faab24cc4838e2a1ebb1f9b932848a8cd3a955a42812878c5708e3e",
+  "size": 32926666,
+  "zip_size": 7479250,
+  "verified": true
+ },
+ "5MIN FUTURES/@ES - 5 min - ETH.csv": {
+  "sha256": "1cc2f21046ceb90d55e1eb2dc3ce0a41f01473c5265468077177fae608ef6f7d",
+  "size": 34517424,
+  "zip_size": 7570383,
+  "verified": true
+ },
+ "5MIN FUTURES/@NQ - 5 min - ETH.csv": {
+  "sha256": "a29de381e299228551cce1f6720e4dea9b9124791cca31d09362008b3936c1ac",
+  "size": 34933487,
+  "zip_size": 8529714,
+  "verified": true
+ },
+ "1MIN FUTURES/@NG - 1 min - ETH.csv": {
+  "sha256": "b9835148217f45ac108c8d0fbab966e939639b7fc77da6055d0939b09d0260fa",
+  "size": 73245307,
+  "zip_size": 12925118,
+  "verified": true
+ },
+ "1MIN FUTURES/@SI - 1 min - ETH.csv": {
+  "sha256": "2f4fe5d60a87c78bd1fd3862248243a9ada78203874ad8b4bd9e746babcd5875",
+  "size": 98484378,
+  "zip_size": 17344010,
+  "verified": true
+ },
+ "1MIN FUTURES/@CL - 1 min - ETH.csv": {
+  "sha256": "d764ee0ffa7db8d5715337dabd2707395735f9adb22c9dc77d2e3477e0639f19",
+  "size": 147073379,
+  "zip_size": 29561850,
+  "verified": true
+ },
+ "1MIN FUTURES/@GC - 1 min - ETH.csv": {
+  "sha256": "e044cffb24fe6e6a93bafc90ef403ff4e7907ce21025a69f015a9bf8e8c342fb",
+  "size": 161145265,
+  "zip_size": 31041026,
+  "verified": true
+ },
+ "1MIN FUTURES/@ES - 1 min - ETH.csv": {
+  "sha256": "ef6487e43d3d225e6bbebcd6a60ef20c9f2b6a728978b98d3c9c006e97e950af",
+  "size": 169816677,
+  "zip_size": 31745985,
+  "verified": true
+ },
+ "1MIN FUTURES/@NQ - 1 min - ETH.csv": {
+  "sha256": "d624ec7ffd68e94e6965e0e3fbb5d3dcd4cd632688fbd951cebf39aee7fb5b40",
+  "size": 170092892,
+  "zip_size": 36814796,
+  "verified": true
+ }
+}
